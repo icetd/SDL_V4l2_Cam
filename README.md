@@ -18,3 +18,7 @@ make && make install
 ```
 ## config
 Use the .config.h file to configure collection format and display size.
+
+## issuse
+
+MJPG may have some bugs
