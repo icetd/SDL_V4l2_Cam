@@ -1,4 +1,10 @@
 # SDL_V4l2_Cam
+## Supported Capture Formats
+```
+YUYV
+MJPG
+```
+
 ## library dependencies
 ```
 jepg
